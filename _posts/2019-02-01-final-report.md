@@ -20,3 +20,6 @@
 - Refining the character animation
 - Learning advanced 3D animations
 - Using the created animation in our project 2 website which is also related to health
+
+# Assets
+[http://harmandhillon21.github.io/Assets.zip](http://harmandhillon21.github.io/Assets.zip)
